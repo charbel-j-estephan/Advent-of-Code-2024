@@ -17,5 +17,7 @@ Here’s how I’ve organized my Advent of Code 2024 solutions:
 
 ❄️ Progress Updates
 I'll be updating this section as I go, but here's how it’s looking so far:
-  - Day 1: Solved! 🎉 (Part 1 and Part 2)
-  - Day 2: To be tackled tomorrow! ✨
+
+- Day 1: Solved! 🎉 (Part 1 and Part 2)
+- Day 2: Solved! 📝 (Part 1 and Part 2), definitely tougher than Day 1
+- Day 3: To be tackled tomorrow! ✨
